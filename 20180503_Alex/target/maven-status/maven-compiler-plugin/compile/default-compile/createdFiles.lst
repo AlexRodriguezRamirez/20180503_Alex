@@ -1,0 +1,16 @@
+es\albarregas\dao\IEquiposDAO.class
+es\albarregas\daofactory\MySQLDAOFactory.class
+es\albarregas\dao\EquiposDAO.class
+es\albarregas\controllers\InsertarEquipo.class
+es\albarregas\daofactory\DAOFactory.class
+es\albarregas\connections\MySQLConnection.class
+es\albarregas\beans\Alumno.class
+es\albarregas\controllers\InsertarAlumno.class
+es\albarregas\filters\UTF8Filter.class
+es\albarregas\utils\MyLogger.class
+es\albarregas\dao\IAlumnosDAO.class
+es\albarregas\controllers\EliminarEquipo.class
+es\albarregas\dao\AlumnosDAO.class
+es\albarregas\controllers\Operacion.class
+es\albarregas\beans\Equipo.class
+es\albarregas\controllers\EliminarAlumno.class

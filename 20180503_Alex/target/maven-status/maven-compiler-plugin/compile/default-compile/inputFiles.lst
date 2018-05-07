@@ -1,0 +1,16 @@
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\beans\Equipo.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\beans\Alumno.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\controllers\EliminarEquipo.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\controllers\Operacion.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\controllers\EliminarAlumno.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\daofactory\DAOFactory.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\connections\MySQLConnection.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\utils\MyLogger.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\dao\IEquiposDAO.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\filters\UTF8Filter.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\controllers\InsertarEquipo.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\dao\AlumnosDAO.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\dao\EquiposDAO.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\controllers\InsertarAlumno.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\dao\IAlumnosDAO.java
+C:\Users\Alex\Documents\NetBeansProjects\20180503_Alex\src\main\java\es\albarregas\daofactory\MySQLDAOFactory.java
